@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\bin\x64\Debug\Addin Test.dll
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\bin\x64\Debug\Addin Test.pdb
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\bin\x64\Debug\Eplan.EplApi.Guiu.dll
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\bin\x64\Debug\Eplan.EplApi.Guiu.xml
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\obj\x64\Debug\Addin Test.dll
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\obj\x64\Debug\Addin Test.pdb
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\obj\x64\Debug\Addin Test.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\bin\x64\Debug\Eplan.EplApi.HEServicesu.dll
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\bin\x64\Debug\Eplan.EplApi.EServicesu.dll
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\bin\x64\Debug\Eplan.EplApi.MasterDatau.dll
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\bin\x64\Debug\Eplan.EplApi.HEServicesu.xml
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\bin\x64\Debug\Eplan.EplApi.EServicesu.xml
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\bin\x64\Debug\Eplan.EplApi.MasterDatau.xml
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\obj\x64\Debug\Addin_Test.Form1.resources
+C:\Users\User\Desktop\업무 관련\API 관련\Addin Test\Addin Test\obj\x64\Debug\Addin Test.csproj.GenerateResource.Cache
