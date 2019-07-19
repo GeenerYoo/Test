@@ -31,5 +31,10 @@ namespace Addin_Test
         {
             eplanAPI_Project.CurrentProjectFilePath();
         }
+
+        private void btnProjectPropCheck_Click(object sender, EventArgs e)
+        {
+            eplanAPI_Project.SetProjectProperties();
+        }
     }
 }

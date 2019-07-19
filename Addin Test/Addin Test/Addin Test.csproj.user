@@ -10,4 +10,9 @@
     <FallbackCulture>ko-KR</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files\EPLAN\Platform\2.8.3\Bin\EPLAN.exe</StartProgram>
+    <StartArguments>/Variant:"Electric P8</StartArguments>
+  </PropertyGroup>
 </Project>
